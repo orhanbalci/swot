@@ -21,7 +21,7 @@ swot="0.1.0"
 ### Usage
 
 ```rust
-use swot::{is_academic, get_school_name}
+use swot::{is_academic, get_school_names}
 ```
 
 #### Verify Email Addresses
