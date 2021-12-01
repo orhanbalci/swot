@@ -6,3 +6,11 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rust-embed="6.3"
+phf="0.10"
+phf_shared="0.10"
+validator="0.14"
+url="2.2"
+
+[build-dependencies]
+phf_codegen = "0.10"

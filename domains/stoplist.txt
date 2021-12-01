@@ -499,3 +499,4 @@ deltacollege.edu
 gavilan.edu
 mgccc.edu
 my.jcu.edu.au
+folger.edu
